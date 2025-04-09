@@ -32,5 +32,8 @@ Se mide la carga desde el servidor y la relación con otras tablas.
 
 [Ver video en pCloud](https://u.pcloud.link/publink/show?code=XZogFY5Z3rUmCAhe6xpIvJltvsXG3mMLxdk0)
 
+## Contraseña
+Usuario: admin
+Contraseña: prueba
 
 Esperamos que estos test, muy sencillos, puedan ser completados con calidad, creatividad, orden y cumpliendo con lo acá aportado. Toda creatividad en la resolución de lo acá expresado es punto extra para ser la diferencia.
